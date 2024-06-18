@@ -1,0 +1,6 @@
+data: Kin8  ,best method CP-S  ,conservativeness:  False
+data: CCPP  ,best method CP-S  ,conservativeness:  True
+data: Naval_Propulsion  ,best method CP-S  ,conservativeness:  True
+data: California_Housing  ,best method CP-S  ,conservativeness:  False
+data: WineWhite  ,best method CP-S  ,conservativeness:  True
+data: Exponential_Function  ,best method CP-S  ,conservativeness:  True

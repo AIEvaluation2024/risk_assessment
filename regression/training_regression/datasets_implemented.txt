@@ -1,0 +1,8 @@
+california housing = done
+kin8nm = done
+combined cycle power plant = done
+naval propulsion = done
+wine quality red = not done
+wine quality white = not done
+song year = not done
+

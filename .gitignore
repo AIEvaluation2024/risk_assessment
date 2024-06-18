@@ -1,0 +1,22 @@
+# removing all the data file
+classification/CNN/risk_assessment/data/
+classification/CNN/train_CNN/data/
+classification/CNN/risk_assessment/parameters_model/
+
+
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+# DS_store
+*.DS_store
+
+
+#.rtf
+*.rtf
